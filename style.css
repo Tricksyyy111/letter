@@ -56,7 +56,7 @@ body{
 .envelope > .letter {
   position: absolute;
   right: 20%;
-  bottom: 0;
+  bottom: -200px;
   width: 54%;
   height: 240%;
   background: var(--primary);
