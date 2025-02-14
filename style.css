@@ -56,9 +56,9 @@ body{
 .envelope > .letter {
   position: absolute;
   right: 20%;
-  bottom: -200px;
+  bottom: 0;
   width: 54%;
-  height: 240%;
+  height: 200%;
   background: var(--primary);
   text-align: center;
   transition: all 1s ease-in-out;
